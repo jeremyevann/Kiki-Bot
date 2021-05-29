@@ -1,0 +1,10 @@
+:one: Cappucino
+:two: Americano
+:three: Espresso
+:four: Caramel Machiatto
+:five: Hazelnut Latte
+:six: Chocolate Milk
+:seven: Hot Tea
+:eight: Lemon Tea
+:nine: Thai Tea
+:keycap_ten: Milkshake
