@@ -37,4 +37,4 @@ async def order(ctx, *, number):
     embed.set_thumbnail(url = l[int(number)-1])
     await ctx.send(embed = embed)
 
-client.run("ODQ4MDY1MjU1Nzc0NzQ4Njky.YLHMUQ.QCVnd-dsnw816C3GoCLQs7SNq4Y")
+client.run("ODQ4MDY1MjU1Nzc0NzQ4Njky.YLHMUQ.jc3suGFtTYXb8SRInT52A0G27yI")
